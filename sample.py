@@ -3,8 +3,7 @@ print("Hello World")
 #This is new command line
 print("Hi FeatureDev")
 a = "Ravi chari"
-print("Hello"
-     git changes done here)
+print("Hello")
 # I am making this changes in the file to test in git
 #adding in between
 def plus(a,b):
