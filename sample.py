@@ -8,6 +8,3 @@ print("Hello")
 def plus(a,b):
     c = a + b
     return c
-
-print(plus(12,12))
-#this changes in done on github itself
